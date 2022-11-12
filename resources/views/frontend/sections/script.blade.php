@@ -35,7 +35,7 @@
                     <label class="label125">Title</label>
                     <div class="form-group">
                         <input class="form-control required" id="edit_title"  name="title" type="text"
-                            autocomplete="off" >
+                            autocomplete="off" required>
                     </div>
                     <label class="label125">Description</label>
                     <div class="form-group">
